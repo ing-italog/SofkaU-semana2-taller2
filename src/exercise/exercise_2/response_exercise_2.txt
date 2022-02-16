@@ -1,0 +1,16 @@
+Ejercicio # 2
+
+¿Es posible ejecutar un programa en java que contenga varias clases con métodos main? 
+En caso positivo, ¿cómo se determina el punto de entrada a un programa?
+
+Respuesta:
+
+SI es posible, el punto de entrada o arranque del programa se determina con el IDE, indicando cual debe iniciar,
+este tipo de prácticas suele ser util por ejemplo para realizar pruebas o Testing.
+
+En los siguientes links podemos ampliar la información:
+https://www.greelane.com/es/ciencia-tecnolog%c3%ada-matem%c3%a1ticas/ciencias-de-la-computaci%c3%b3n/using-multiple-main-classes-2034250/
+https://docs.oracle.com/javase/9/docs/api/com/sun/tools/javadoc/Main.html#main-java.lang.String...-
+ 
+
+ 
